@@ -1,2 +1,2 @@
 # Sigma
-this is the normal repo
+this is the normal repo.
